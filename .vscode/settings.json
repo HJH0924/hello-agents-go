@@ -3,6 +3,8 @@
         "mapstructure",
         "resty",
         "sashabaranov",
+        "Serp",
+        "SERPAPI",
         "TAVILY",
         "wttr"
     ]

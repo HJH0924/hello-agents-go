@@ -1,0 +1,362 @@
+{
+    "organic_results": [
+        {
+            "displayed_link": "https://www.nvidia.cn › graphics-cards › 50-series",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b39bf720ee2397efc37fd0773820c73ccf0.png",
+            "link": "https://www.nvidia.cn/geforce/graphics-cards/50-series/",
+            "position": 1,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.cn/geforce/graphics-cards/50-series/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECCAQAQ",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "link": "https://www.nvidia.cn/geforce/graphics-cards/compare/",
+                        "title": "比较规格"
+                    },
+                    {
+                        "link": "https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5090-d-v2/",
+                        "title": "RTX 5090 D v2"
+                    },
+                    {
+                        "link": "https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5070-family/",
+                        "title": "RTX 5070 系列"
+                    },
+                    {
+                        "link": "https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5060-family/",
+                        "title": "RTX 5060 系列"
+                    }
+                ]
+            },
+            "snippet": "GeForce RTX™ 50 系列GPU 搭载NVIDIA Blackwell 架构，为游戏玩家和创作者带来全新玩法。RTX 50 系列具备强大的AI 算力，带来升级体验和更逼真的画面。",
+            "snippet_highlighted_words": [
+                "GPU"
+            ],
+            "source": "NVIDIA",
+            "title": "GeForce RTX 50 系列显卡"
+        },
+        {
+            "displayed_link": "https://www.nvidia.cn › graphics-cards › compare",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b390be16150ad10fc440a1b307830953b2b.png",
+            "link": "https://www.nvidia.cn/geforce/graphics-cards/compare/",
+            "position": 2,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.cn/geforce/graphics-cards/compare/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBoQAQ",
+            "snippet": "比较最新一代RTX 30 系列显卡和前代的RTX 20 系列、GTX 10 和900 系列显卡。查看规格、功能、技术支持等内容。",
+            "snippet_highlighted_words": [
+                "最新"
+            ],
+            "source": "NVIDIA",
+            "title": "比较GeForce 系列最新一代显卡和前代显卡"
+        },
+        {
+            "displayed_link": "https://www.nvidia.cn › graphics-cards › 50-series › rtx-...",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b39053cc6c991843a576a333883adff3658.png",
+            "link": "https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5090-d-v2/",
+            "position": 3,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5090-d-v2/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBUQAQ",
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "JP¥16,499"
+                    ]
+                }
+            },
+            "snippet": "NVIDIA® GeForce RTX™ 5090 D v2 可为游戏玩家和创作者带来全新玩法。它具有强大AI 算力，能够处理前沿的模型，应对挑战性的创意工作流。在游戏体验中，支持全景光线追踪 ...",
+            "source": "NVIDIA",
+            "title": "GeForce RTX 5090 D v2 显卡| NVIDIA"
+        },
+        {
+            "date": "2025年5月20日",
+            "displayed_link": "https://zhuanlan.zhihu.com › ...",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b39609d4a683998e53d66038231e8625fb4.png",
+            "link": "https://zhuanlan.zhihu.com/p/1908108460719056245",
+            "position": 4,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zhuanlan.zhihu.com/p/1908108460719056245&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBgQAQ",
+            "snippet": "Quadro系列是英伟达专业级GPU产品线，针对商业和专业应用领域进行了优化。常见的产品型号如NVIDIA RTX A6000、A5000等。 Quadro GPU具备强大的计算能力、大 ...",
+            "snippet_highlighted_words": [
+                "英伟达",
+                "GPU",
+                "型号",
+                "GPU"
+            ],
+            "source": "知乎专栏",
+            "title": "一文彻底读懂：英伟达GPU分类、架构演进和参数解析"
+        },
+        {
+            "date": "2025年2月18日",
+            "displayed_link": "https://blog.csdn.net › article › details",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b3905f648492e591aed4a430511e0c037e4.png",
+            "link": "https://blog.csdn.net/u013891230/article/details/145705022",
+            "position": 5,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/u013891230/article/details/145705022&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBkQAQ",
+            "snippet": "1. A100：数据中心AI计算的奠基石 · 2. H100：性能提升的算力王者 · 3. A800 & H800：中国市场专供版 · 4. H20：新一代受限算力GPU ...",
+            "snippet_highlighted_words": [
+                "GPU"
+            ],
+            "source": "CSDN博客",
+            "title": "一文搞懂最新NVIDIA GPU满血版和阉割版芯片：A100、H100"
+        },
+        {
+            "displayed_link": "https://www.nvidia.cn › studio › compare-gpus",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b3971265de0f124e06ed30ac1809af71d56.png",
+            "link": "https://www.nvidia.cn/studio/compare-gpus/",
+            "position": 6,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.cn/studio/compare-gpus/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBcQAQ",
+            "snippet": "设计本 ; GeForce RTX 5070 Ti, 12 GB, 大型 ; NVIDIA RTX PRO 2000 Blackwell 架构, 8 GB, 中型 ; NVIDIA RTX PRO 3000 Blackwell 架构, 12 GB, 大型 ; 创作大师.",
+            "snippet_highlighted_words": [
+                "GeForce RTX 5070 Ti"
+            ],
+            "source": "NVIDIA",
+            "title": "NVIDIA GPU 比较表"
+        },
+        {
+            "date": "2025年4月3日",
+            "displayed_link": "https://www.eet-china.com › ...",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b395e3ad95e56ee1625d5f6c8c003e51219.png",
+            "link": "https://www.eet-china.com/mp/a393893.html",
+            "position": 7,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eet-china.com/mp/a393893.html&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECBYQAQ",
+            "snippet": "A100是英伟达2020年发布的旗舰级数据中心GPU，基于Ampere架构，主要特性包括：. 架构：Ampere; CUDA核心数：6912; Tensor核心：432; 显存：40GB/80GB HBM2e ...",
+            "snippet_highlighted_words": [
+                "A100"
+            ],
+            "source": "Eet-china",
+            "title": "英伟达算力GPU主要型号及参数"
+        },
+        {
+            "date": "2024年4月4日",
+            "displayed_link": "https://blog.csdn.net › article › details",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b399e50b4eb07b980fe3a1c91afcc8ca481.png",
+            "link": "https://blog.csdn.net/m0_71832273/article/details/137378111",
+            "position": 8,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/m0_71832273/article/details/137378111&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECDwQAQ",
+            "snippet": "2024年最新：一文看懂英伟达显卡B100、H200、L40S、A100、A800、H100、H800、V100如何选择，附架构技术和性能对比 转载 · Volta 架构：Volta 架构是NVIDIA GPU ...",
+            "snippet_highlighted_words": [
+                "最新",
+                "英伟达",
+                "GPU"
+            ],
+            "source": "CSDN博客",
+            "title": "2024年最新：一文看懂英伟达显卡B100、H200、L40S、A100"
+        },
+        {
+            "displayed_link": "https://www.nvidia.com › data-center",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b393f1423aae32bccf0bf1e9469b870f15f.png",
+            "link": "https://www.nvidia.com/zh-tw/data-center/h100/",
+            "position": 9,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.com/zh-tw/data-center/h100/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECDoQAQ",
+            "snippet": "利用NVIDIA H100 Tensor 核心GPU，提供所有工作負載前所未有的效能、可擴充性和安全性。H100 採用以NVIDIA Hopper™ 架構為基礎的突破性創新，可加速大型語言模型(LLM) ...",
+            "snippet_highlighted_words": [
+                "NVIDIA H100 Tensor 核心GPU"
+            ],
+            "source": "NVIDIA",
+            "title": "H100 Tensor 核心GPU"
+        },
+        {
+            "displayed_link": "https://www.nvidia.com › technologies",
+            "favicon": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/beaafa03833047ce60a446747e2b3b39944239268a08bdf75fc4d43ba310aaba.png",
+            "link": "https://www.nvidia.com/zh-tw/technologies/rtx/",
+            "position": 10,
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.com/zh-tw/technologies/rtx/&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQFnoECDgQAQ",
+            "snippet": "NVIDIA RTX PRO™ Blackwell GPU 是最先進的RTX GPU，提供高效能即時光線追蹤、AI 加速運算及專業圖形渲染。 了解更多. NVIDIA Ampere. NVIDIA Ada Lovelace.",
+            "snippet_highlighted_words": [
+                "GPU",
+                "GPU"
+            ],
+            "source": "NVIDIA",
+            "title": "NVIDIA RTX 技術"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=10&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=10&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAE",
+            "3": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=20&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAG",
+            "4": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=30&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAI",
+            "5": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=40&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAK",
+            "6": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=50&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAM",
+            "7": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=60&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAO",
+            "8": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=70&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAQ",
+            "9": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=80&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAS",
+            "10": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&ei=VUcEab7pEKmmmtkPw9WLmQ8&start=90&sa=N&sstk=Af77f_c9xAnrpVxn0DUvYBmf32QDmnP5fd-KvU_WJaTJN_kNEr9sfFzjcA5SrYhTnmjeuqmNYX8axEaCO63sBynJYXdFOOIX9ruk4w&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ8tMDegQICBAU"
+        }
+    },
+    "related_questions": [
+        {
+            "displayed_link": "https://zh.wikipedia.org › zh-cn › GeForce_RTX_50系列",
+            "link": "https://zh.wikipedia.org/zh-cn/GeForce_RTX_50%E7%B3%BB%E5%88%97",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggNTA5MCDmmK/ku4DkuYjml7blgJnkuIrluILnmoTvvJ8iLCJsayI6IkdoazFNRGt3SU9TN2dPUzVpQ0RtbDdibGdKa2c1TGlLNWJpQyIsImJzIjoiYy1OeTQxSUpDb2xRTURXd05GQjRObVA5azkwTlQzWjJQSnUtN1duRHpDYzd1cDd1YUhvLXEtWDludmtTN2NaRzBsS1NZR1VRTlFvUVJRb1FWVnl1WEtvZ2M0d01EQXdVSEZNU0ZaN1AzdkYwNy1RbnVfcWdKczdZOTdSM0ljaWdMOXBHa2xMaVJTVVZFTFdKY0xVS1FNVmNObHpTTDdvM1B0a3pfOFctZlVDYjNRTkM0WTRDYVQ0UllDUWxKUUZYb1pCZVVBcHlOZFJKWEE1Y2NoRFBXTUJjaWV3VGtBRjlhaEJ2V0dEM2hnQWpBQSIsImlkIjoiZmNfVlVjRWFiN3BFS21tbXRrUHc5V0xtUThfMyJ9",
+            "question": "RTX 5090 是什么时候上市的？",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggNTA5MCDmmK%2Fku4DkuYjml7blgJnkuIrluILnmoTvvJ8iLCJsayI6IkdoazFNRGt3SU9TN2dPUzVpQ0RtbDdibGdKa2c1TGlLNWJpQyIsImJzIjoiYy1OeTQxSUpDb2xRTURXd05GQjRObVA5azkwTlQzWjJQSnUtN1duRHpDYzd1cDd1YUhvLXEtWDludmtTN2NaRzBsS1NZR1VRTlFvUVJRb1FWVnl1WEtvZ2M0d01EQXdVSEZNU0ZaN1AzdkYwNy1RbnVfcWdKczdZOTdSM0ljaWdMOXBHa2xMaVJTVVZFTFdKY0xVS1FNVmNObHpTTDdvM1B0a3pfOFctZlVDYjNRTkM0WTRDYVQ0UllDUWxKUUZYb1pCZVVBcHlOZFJKWEE1Y2NoRFBXTUJjaWV3VGtBRjlhaEJ2V0dEM2hnQWpBQSIsImlkIjoiZmNfVlVjRWFiN3BFS21tbXRrUHc5V0xtUThfMyJ9",
+            "snippet": "RTX 5090、RTX 5080和RTX 5090 D于2025年1月30日上市，起售价分别为1,999美元、999美元和16,499元人民币；RTX 5070 Ti和RTX 5070分别于2025年2月20日和2025年3月5日上市，起售价分别为549美元和749美元；RTX 5060 Ti和RTX 5060分别于 ...",
+            "source_logo": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/d8eb87219ff6582cdd96ea75270601ecb7c6535c53a3045b93309c7cdd15986a.png",
+            "title": "GeForce RTX 50系列- 维基百科，自由的百科全书",
+            "type": "featured_snippet"
+        },
+        {
+            "date": "2024年2月20日",
+            "displayed_link": "https://in.ali213.net › yjjc",
+            "link": "https://in.ali213.net/yjjc/202402/11500.html",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggMjAwMCBBZGEg55u45b2T5LqO5LuA5LmI5pi+5Y2h77yfIiwibGsiOiJHaGR5ZEhnZ01qQXdNQ0JoWkdFZzU1dTQ1YjJUSU9TNmpnIiwiYnMiOiJjLU55NDFJSkNvbFFNRFd3TkZCNE5tUDlrOTBOVDNaMlBKdS03V25EekNjN3VwN3VhSG8tcS1YOW52a1M3Y1pHMGxLU1lHVVFOUW9RUlFvUVZWeXVYS29nYzR3TURBd1VIRk1TRlo3UDN2RjA3LVFudV9xZ0pzN1k5N1IzSWNpZ0w5cEdrbExpUlNVVkVMV0pjTFVLUU1WY05selNMN28zUHRrel84Vy1mVUNiM1FOQzRZNENhVDRSWUNRbEpRRlhvWkJlVUFweU5kUkpYQTVjY2hEUFdNQmNpZXdUa0FGOWFoQnZXR0QzaGdBakFBIiwiaWQiOiJmY19WVWNFYWI3cEVLbW1tdGtQdzlXTG1ROF8zIn0=",
+            "question": "RTX 2000 Ada 相当于什么显卡？",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggMjAwMCBBZGEg55u45b2T5LqO5LuA5LmI5pi%2B5Y2h77yfIiwibGsiOiJHaGR5ZEhnZ01qQXdNQ0JoWkdFZzU1dTQ1YjJUSU9TNmpnIiwiYnMiOiJjLU55NDFJSkNvbFFNRFd3TkZCNE5tUDlrOTBOVDNaMlBKdS03V25EekNjN3VwN3VhSG8tcS1YOW52a1M3Y1pHMGxLU1lHVVFOUW9RUlFvUVZWeXVYS29nYzR3TURBd1VIRk1TRlo3UDN2RjA3LVFudV9xZ0pzN1k5N1IzSWNpZ0w5cEdrbExpUlNVVkVMV0pjTFVLUU1WY05selNMN28zUHRrel84Vy1mVUNiM1FOQzRZNENhVDRSWUNRbEpRRlhvWkJlVUFweU5kUkpYQTVjY2hEUFdNQmNpZXdUa0FGOWFoQnZXR0QzaGdBakFBIiwiaWQiOiJmY19WVWNFYWI3cEVLbW1tdGtQdzlXTG1ROF8zIn0%3D",
+            "snippet": "RTX 2000 Ada 相当于GeForce RTX 4060的游戏显卡。",
+            "source_logo": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/d8eb87219ff6582cdd96ea75270601ec66b900baa855c17c4b18e3af1cabd884.png",
+            "title": "rtx2000ada相当于什么显卡 - 游侠网",
+            "type": "featured_snippet"
+        },
+        {
+            "date": "2023年7月23日",
+            "displayed_link": "https://zhuanlan.zhihu.com › ...",
+            "link": "https://zhuanlan.zhihu.com/p/645394366",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiLoi7HkvJ/ovr7nmoRHUFXmmK/ku4DkuYjvvJ8iLCJsayI6Ikdoam9pN0hrdkpfb3ZyNGdaM0IxSU9hWXJ5RGt1NERrdVlnIiwiYnMiOiJjLU55NDFJSkNvbFFNRFd3TkZCNE5tUDlrOTBOVDNaMlBKdS03V25EekNjN3VwN3VhSG8tcS1YOW52a1M3Y1pHMGxLU1lHVVFOUW9RUlFvUVZWeXVYS29nYzR3TURBd1VIRk1TRlo3UDN2RjA3LVFudV9xZ0pzN1k5N1IzSWNpZ0w5cEdrbExpUlNVVkVMV0pjTFVLUU1WY05selNMN28zUHRrel84Vy1mVUNiM1FOQzRZNENhVDRSWUNRbEpRRlhvWkJlVUFweU5kUkpYQTVjY2hEUFdNQmNpZXdUa0FGOWFoQnZXR0QzaGdBakFBIiwiaWQiOiJmY19WVWNFYWI3cEVLbW1tdGtQdzlXTG1ROF8zIn0=",
+            "question": "英伟达的GPU是什么？",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiLoi7HkvJ%2Fovr7nmoRHUFXmmK%2Fku4DkuYjvvJ8iLCJsayI6Ikdoam9pN0hrdkpfb3ZyNGdaM0IxSU9hWXJ5RGt1NERrdVlnIiwiYnMiOiJjLU55NDFJSkNvbFFNRFd3TkZCNE5tUDlrOTBOVDNaMlBKdS03V25EekNjN3VwN3VhSG8tcS1YOW52a1M3Y1pHMGxLU1lHVVFOUW9RUlFvUVZWeXVYS29nYzR3TURBd1VIRk1TRlo3UDN2RjA3LVFudV9xZ0pzN1k5N1IzSWNpZ0w5cEdrbExpUlNVVkVMV0pjTFVLUU1WY05selNMN28zUHRrel84Vy1mVUNiM1FOQzRZNENhVDRSWUNRbEpRRlhvWkJlVUFweU5kUkpYQTVjY2hEUFdNQmNpZXdUa0FGOWFoQnZXR0QzaGdBakFBIiwiaWQiOiJmY19WVWNFYWI3cEVLbW1tdGtQdzlXTG1ROF8zIn0%3D",
+            "snippet": "NVIDIA 的GPU (Graphics Processing Unit) 是一种专门设计来处理图形和并行计算任务的电子芯片。 自从NVIDIA 推出其首款GPU 以来，它们已经从仅仅处理视频游戏图形的设备发展成为能处理各种高性能计算和深度学习任务的强大工具。",
+            "source_logo": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/d8eb87219ff6582cdd96ea75270601ec654799e0bc9281b786e6dcab3724c0f3.png",
+            "title": "NVIDIA 的GPU 是什么？ - 知乎专栏",
+            "type": "featured_snippet"
+        },
+        {
+            "displayed_link": "https://zh.wikipedia.org › zh-tw › GeForce_RTX_50系列",
+            "formatted": [
+                {
+                    "5080": "2025年1月30日",
+                    "ge_force_rtx": "上市日期"
+                },
+                {
+                    "5080": "$999",
+                    "ge_force_rtx": "建議售價"
+                },
+                {
+                    "5080": "GB203-400",
+                    "ge_force_rtx": "GPU代號"
+                },
+                {
+                    "5080": "456",
+                    "ge_force_rtx": "電晶體數量（億）"
+                }
+            ],
+            "link": "https://zh.wikipedia.org/zh-tw/GeForce_RTX_50%E7%B3%BB%E5%88%97",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggNTA4MCDku4DkuYjml7blgJnkuIrluILvvJ8iLCJsayI6IkdoazFNRGd3SU9TN2dPUzVpQ0RtbDdibGdKa2c1TGlLNWJpQyIsImJzIjoiYy1OeTQxSUpDb2xRTURXd05GQjRObVA5azkwTlQzWjJQSnUtN1duRHpDYzd1cDd1YUhvLXEtWDludmtTN2NaRzBsS1NZR1VRTlFvUVJRb1FWVnl1WEtvZ2M0d01EQXdVSEZNU0ZaN1AzdkYwNy1RbnVfcWdKczdZOTdSM0ljaWdMOXBHa2xMaVJTVVZFTFdKY0xVS1FNVmNObHpTTDdvM1B0a3pfOFctZlVDYjNRTkM0WTRDYVQ0UllDUWxKUUZYb1pCZVVBcHlOZFJKWEE1Y2NoRFBXTUJjaWV3VGtBRjlhaEJ2V0dEM2hnQWpBQSIsImlkIjoiZmNfVlVjRWFiN3BFS21tbXRrUHc5V0xtUThfMyJ9",
+            "question": "RTX 5080 什么时候上市？",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSExWRlFkRWxNTkhwRmNXcEhWMmRSTXpkSGFEQlJNbWxQVUdKb1UzQkVSRUpETWxaNU1GSlFOSEExY1RkdFlubHljM1p6UzBKZkxYWmlTVlk1YzBwcmRreExSMXBEWDFsYWRUazFiVzVEUWxWNWEzbEJOVEY0UTE4M1VSSVhWbFZqUldGaU4zQkZTMjF0YlhSclVIYzVWMHh0VVRnYUlrRkdUVUZIUjNBNVNXOUJkbFJPUWs5NGMwWkNVREZzUzNkVFJWUktkMDFhVjNjIiwiZmN2IjoiMyIsImVpIjoiVlVjRWFiN3BFS21tbXRrUHc5V0xtUTgiLCJxYyI6IkNpcm9pN0hrdkpfb3ZyNGc1cHlBNXBhd0lPZWFoQ0JuY0hVZzVaNkw1WS0zSU9hWXJ5RGt1NERrdVlnUUVIMWVFVWdfIiwicXVlc3Rpb24iOiJSVFggNTA4MCDku4DkuYjml7blgJnkuIrluILvvJ8iLCJsayI6IkdoazFNRGd3SU9TN2dPUzVpQ0RtbDdibGdKa2c1TGlLNWJpQyIsImJzIjoiYy1OeTQxSUpDb2xRTURXd05GQjRObVA5azkwTlQzWjJQSnUtN1duRHpDYzd1cDd1YUhvLXEtWDludmtTN2NaRzBsS1NZR1VRTlFvUVJRb1FWVnl1WEtvZ2M0d01EQXdVSEZNU0ZaN1AzdkYwNy1RbnVfcWdKczdZOTdSM0ljaWdMOXBHa2xMaVJTVVZFTFdKY0xVS1FNVmNObHpTTDdvM1B0a3pfOFctZlVDYjNRTkM0WTRDYVQ0UllDUWxKUUZYb1pCZVVBcHlOZFJKWEE1Y2NoRFBXTUJjaWV3VGtBRjlhaEJ2V0dEM2hnQWpBQSIsImlkIjoiZmNfVlVjRWFiN3BFS21tbXRrUHc5V0xtUThfMyJ9",
+            "snippet": "RTX 5090",
+            "source_logo": "https://serpapi.com/searches/69044754822c5f2a207e4302/images/d8eb87219ff6582cdd96ea75270601ec85c71fd1e1775cf7e390069e3497c1c8.png",
+            "table": [
+                [
+                    "GeForce RTX",
+                    "5080"
+                ],
+                [
+                    "上市日期",
+                    "2025年1月30日"
+                ],
+                [
+                    "建議售價",
+                    "$999"
+                ],
+                [
+                    "GPU代號",
+                    "GB203-400"
+                ],
+                [
+                    "電晶體數量（億）",
+                    "456"
+                ]
+            ],
+            "title": "GeForce RTX 50系列- 維基百科，自由的百科全書",
+            "type": "featured_snippet"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=4090%E6%98%BE%E5%8D%A1%E6%98%AF%E4%BB%80%E4%B9%88&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAg0EAE",
+            "query": "4090显卡是什么",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=4090%E6%98%BE%E5%8D%A1%E6%98%AF%E4%BB%80%E4%B9%88"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0ai%E6%98%BE%E5%8D%A1&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAg1EAE",
+            "query": "英伟达最新ai显卡",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0ai%E6%98%BE%E5%8D%A1"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0gpu&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAgzEAE",
+            "query": "英伟达最新gpu",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0gpu"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=4080+super%E5%8F%82%E6%95%B0&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAgxEAE",
+            "query": "4080 super参数",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=4080+super%E5%8F%82%E6%95%B0"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=Nvidia+5070+ti&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAgyEAE",
+            "query": "Nvidia 5070 ti",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Nvidia+5070+ti"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE4090&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAgwEAE",
+            "query": "英伟达4090",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE4090"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=Rtx+5080+%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAg2EAE",
+            "query": "Rtx 5080 价格",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Rtx+5080+%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "link": "https://www.google.com/search?sca_esv=2b402440a197c26d&gl=cn&hl=zh-cn&q=5070%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwj-59PL2M2QAxUpkyYFHcPqIvMQ1QJ6BAg3EAE",
+            "query": "5070显卡价格",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=5070%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC"
+        }
+    ],
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "英伟达最新的GPU型号是什么",
+        "time_taken_displayed": 0.29,
+        "total_results": 10400000
+    },
+    "search_metadata": {
+        "created_at": "2025-10-31 05:21:24 UTC",
+        "google_url": "https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&oq=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&hl=zh-cn&gl=cn&sourceid=chrome&ie=UTF-8",
+        "id": "69044754822c5f2a207e4302",
+        "json_endpoint": "https://serpapi.com/searches/77062cade83d65b8/69044754822c5f2a207e4302.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/77062cade83d65b8/69044754822c5f2a207e4302.json_with_pixel_position",
+        "processed_at": "2025-10-31 05:21:24 UTC",
+        "raw_html_file": "https://serpapi.com/searches/77062cade83d65b8/69044754822c5f2a207e4302.html",
+        "status": "Success",
+        "total_time_taken": 1.25
+    },
+    "search_parameters": {
+        "device": "desktop",
+        "engine": "google",
+        "gl": "cn",
+        "google_domain": "google.com",
+        "hl": "zh-cn",
+        "q": "英伟达最新的GPU型号是什么"
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E7%9A%84GPU%E5%9E%8B%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88&start=90"
+        }
+    }
+}
