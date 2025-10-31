@@ -84,3 +84,12 @@ func GoogleSearch(q string) (string, error) {
 	// 5. 如果没有任何有效信息，返回最终的提示
 	return fmt.Sprintf("对不起，没有找到关于 '%s' 的信息。", q), nil
 }
+
+// 注册谷歌搜索工具
+func RegisterGoogleSearchTool(executor *ToolExecutor) {
+	executor.RegisterTool(
+		"GoogleSearch",
+		"一个网页搜索引擎。当你需要回答关于时事、事实以及在你的知识库中找不到的信息时，应使用此工具。",
+		GoogleSearch,
+	)
+}
